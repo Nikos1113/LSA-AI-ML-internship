@@ -9,16 +9,18 @@ A comprehensive study comparing classical Machine Learning algorithms with Deep 
 * **Algorithms:** Linear Regression vs. Decision Trees.
 * **Result:** Analyzed Mean Squared Error (MSE) and R-Squared values to determine model stability.
 
-### 2. Neural Networks (Deep Learning)
+
+
+### 2. Statistical Analysis & Hypothesis Testing
+Data-driven decision making using rigorous statistical methods.
+* **Tests Performed:** T-tests, P-value analysis, and Correlation matrices.
+* **Goal:** Validating the significance of features before model training to avoid overfitting.
+
+### 3. Neural Networks (Deep Learning)
 Implementation of a Neural Network architecture to handle complex non-linear patterns.
 * **Framework:** Tensorflow, Keras, Scikit-Learn
 * **Architecture:** Multi-layer Perceptron (MLP) with hidden layers.
 * **Outcome:** Improved accuracy compared to baseline linear models.
-
-### 3. Statistical Analysis & Hypothesis Testing
-Data-driven decision making using rigorous statistical methods.
-* **Tests Performed:** T-tests, P-value analysis, and Correlation matrices.
-* **Goal:** Validating the significance of features before model training to avoid overfitting.
 
 ## 🛠️ Tech Stack
 * **Language:** Python
